@@ -1,12 +1,12 @@
 [package]
 name = "mk"
-version = "0.13.0"
+version = "0.14.0"
 authors = ["https://github.com/loverdos"]
 edition = "2021"
 readme = "README.md"
 keywords = ["make", "build"]
 
 [dependencies]
-which = "5.0.0"
+which = "6.0.0"
 execute = "0.2.13"
 shellme = { git = "https://github.com/loverdos/shellme", tag = "v0.6.0"}
